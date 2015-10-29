@@ -1,0 +1,189 @@
+# EESchema Netlist Version 1.1 created  26/01/2012 10:49:38
+(
+ ( /4F159550 C1V7_lg_pad C1 100uf
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4F159532 C1_wide_lg_pad C2 100nf
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4F15966C LED-5MM_large_pads D1 IR_wide
+  ( 1 VCC )
+  ( 2 N-000005 )
+ )
+ ( /4F15966F LED-5MM_large_pads D2 IR_narr
+  ( 1 VCC )
+  ( 2 N-000013 )
+ )
+ ( /4F159673 LED-5MM_large_pads D3 IR_narr
+  ( 1 VCC )
+  ( 2 N-000004 )
+ )
+ ( /4F159678 LED-5MM_large_pads D4 IR_wide
+  ( 1 VCC )
+  ( 2 N-000011 )
+ )
+ ( /4F15967C LED-5MM_large_pads D5 RED
+  ( 1 VCC )
+  ( 2 N-000007 )
+ )
+ ( /4F1597B0 DIP-8__300_ELL IC1 ATTINY85
+  ( 1 N-000014 )
+  ( 2 N-000008 )
+  ( 3 N-000009 )
+  ( 4 GND )
+  ( 5 N-000002 )
+  ( 6 N-000015 )
+  ( 7 N-000001 )
+  ( 8 VCC )
+ )
+ ( /4F159619 conn_2_small P1 BATT
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4F212F27 SIL-6_large_pads P2 CONN_3X2
+  ( 1 N-000015 )
+  ( 2 VCC )
+  ( 3 N-000001 )
+  ( 4 N-000002 )
+  ( 5 N-000014 )
+  ( 6 GND )
+ )
+ ( /4F1595EF TO92-ECB_large_pad_BC639 Q1 BC640
+  ( 1 N-000012 )
+  ( 2 N-000006 )
+  ( 3 VCC )
+ )
+ ( /4F15956A TO92-EBC_large_pad Q2 BC548
+  ( 1 GND )
+  ( 2 N-000012 )
+  ( 3 N-000005 )
+ )
+ ( /4F159684 TO92-EBC_large_pad Q3 BC548
+  ( 1 GND )
+  ( 2 N-000012 )
+  ( 3 N-000013 )
+ )
+ ( /4F159689 TO92-EBC_large_pad Q4 BC548
+  ( 1 GND )
+  ( 2 N-000012 )
+  ( 3 N-000004 )
+ )
+ ( /4F15968C TO92-EBC_large_pad Q5 BC548
+  ( 1 GND )
+  ( 2 N-000012 )
+  ( 3 N-000011 )
+ )
+ ( /4F15955F R3-LARGE_PADS_0_8_hole R1 1k
+  ( 1 N-000006 )
+  ( 2 N-000002 )
+ )
+ ( /4F159E51 R3-LARGE_PADS_0_8_hole R2 10k
+  ( 1 N-000015 )
+  ( 2 GND )
+ )
+ ( /4F159E4D R3-LARGE_PADS_0_8_hole R3 10k
+  ( 1 N-000012 )
+  ( 2 GND )
+ )
+ ( /4F15955C R3-LARGE_PADS_0_8_hole R4 1k
+  ( 1 N-000001 )
+  ( 2 N-000007 )
+ )
+ ( /4F159627 SW_PUSH_SMALL_lg_pad SW1 START
+  ( 1 GND )
+  ( 2 N-000014 )
+ )
+ ( /4F159932 SIL-3_lg_pad Y1 8MHz
+  ( 1 N-000009 )
+  ( 2 GND )
+  ( 3 N-000008 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
