@@ -1,10 +1,10 @@
 # TV-B-Gone Instructions
 
-**By: Matthew Little
+**By: Matthew Little**
 
-**hello@curiouselectric.co.uk
+**hello@curiouselectric.co.uk**
 
-**Date: 13th Feb 2017
+**Date: 13th Feb 2017**
 
 # Overview
 
