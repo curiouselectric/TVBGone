@@ -13,9 +13,10 @@ It is based upon an idea and product from Mitch Altman.
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
 # Components
-| Component Name  | Value | Quantity  |
-|-----------------|-------|-----------|
-| Test            | 1     | 2         |
+| Component Name  | Value | Quantity  | Reference |
+|-----------------|-------|-----------|-----------|
+| Capcitor        | 22uf  | 1         | C1        |
+| Capacitor       | 0.1uf | 1         | C2        |
 
 
 
