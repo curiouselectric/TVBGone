@@ -13,12 +13,21 @@ It is based upon an idea and product from Mitch Altman.
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
 # Components
-| Component Name  | Value | Quantity  | Reference |
-|-----------------|-------|-----------|-----------|
-| Capcitor        | 22uf  | 1         | C1        |
-| Capacitor       | 0.1uf | 1         | C2        |
-
-
+| Component Name      | Value     | Quantity  | Reference   |
+|-----------------    |-------    |-----------|-----------  |
+| Capacitor           | 22uf      | 1         | C1          |
+| Capacitor           | 0.1uf     | 1         | C2          |
+| LED IR 950nm        |           | 4         | D1,D2,D3,D4 |
+| LED Red 5mm         |           | 1         | D5          |
+| MicroController     | ATTiny85  | 1         | IC1         |
+| IC 8pin Socket      |           | 1         |             |
+| Battery Holder      |           | 1         | P1          |
+| Resistor            | 1k        | 2         | R1,R4       |
+| Resistor            | 10k       | 2         | R2,R3       |
+| Transistor  PNP     | BC640     | 1         | Q1          |
+| Transistor  NPN     | BC548     | 4         | Q2,Q3,Q4,Q5 |
+| Switch              |           | 1         | SW1         |
+| Resonator           | 8MHz      | 1         | Y1          |
 
 # Tools required
 
