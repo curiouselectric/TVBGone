@@ -54,7 +54,7 @@ This kit is based upon a circuit originally produced by [Mitch Altman] (http://w
 
 The circuit is based upon the [kit by Adafruit Industries] (http://www.ladyada.net/make/tvbgone/index.html)
 
-Kit developed by [Matt Little at Curious Electric](www.curiouselectric.co.uk)
+Kit developed by [Matt Little at Curious Electric] (www.curiouselectric.co.uk)
 
 # Circuit Schematic
 
