@@ -1,10 +1,10 @@
+<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png" width="200" align="middle">
+
 # TV-B-Gone Instructions
 
 **By: Matthew Little,      Date: 13th Feb 2017**
 
 **hello@curiouselectric.co.uk**
-
-<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png" width="200">
 
 # Overview
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
@@ -149,3 +149,6 @@ Hopkinson,
 Nottingham, 
 
 NG2 3AJ, UK
+
+<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png" width="300" align="middle">
+
