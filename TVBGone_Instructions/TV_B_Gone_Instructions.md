@@ -51,7 +51,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Sticky Pad          |                           | 1         |
 
 # Tools required
-![Image of tools] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.jgg "Tools required")
+![Image of tools] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.JPG "Tools required")
 
 The main tools required are: Soldering Iron, solder and side cutters. A screw driver and small set of pliers is also useful.
 
