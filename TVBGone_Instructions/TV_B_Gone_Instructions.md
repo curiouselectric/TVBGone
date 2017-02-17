@@ -17,7 +17,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 # Components
 
-![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components)
+![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components")
 
 | Component Name      | Value     | Quantity  | Reference   |
 |-----------------    |-------    |-----------|-----------  |
