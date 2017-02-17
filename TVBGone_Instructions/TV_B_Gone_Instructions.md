@@ -216,19 +216,13 @@ The GITHUB repository for all the files is: **https://github.com/curiouselectric
 This kit has been designed and produced by:
 
 <p align="center">
-<b>The Curious Electric Company</b>
-
-hello@curiouselectric.co.uk
-
-www.curiouselectric.co.uk
-
-Hopkinson,
-
-21 Station Street,
-
-Nottingham,
-
-NG2 3AJ, UK
+<b>The Curious Electric Company</b><br>
+hello@curiouselectric.co.uk<br>
+www.curiouselectric.co.uk<br>
+Hopkinson,<br>
+21 Station Street,<br>
+Nottingham,<br>
+NG2 3AJ, UK<br>
 </p>
 <p align="center">
 
