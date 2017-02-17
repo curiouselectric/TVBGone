@@ -217,11 +217,17 @@ This kit has been designed and produced by:
 
 <p align="center">
 <b>The Curious Electric Company</b>
+
 hello@curiouselectric.co.uk
+
 www.curiouselectric.co.uk
+
 Hopkinson,
+
 21 Station Street,
+
 Nottingham,
+
 NG2 3AJ, UK
 </p>
 <p align="center">
