@@ -1,7 +1,9 @@
 # TV-B-Gone Instructions
 
-**By: Matthew Little    Date: 13th Feb 2017**
+**By: Matthew Little,      Date: 13th Feb 2017**
+
 **hello@curiouselectric.co.uk**
+
 <img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png" width="200">
 
 # Overview
