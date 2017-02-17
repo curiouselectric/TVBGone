@@ -15,12 +15,12 @@ It is based upon an idea and product from Mitch Altman.
 ![Image of TV-B-Gone] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Built TV-B-Gone PCB")
 
 
-
-
 # In use 
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
 # Components
+
+## PCB and components
 
 ![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components")
 
@@ -40,13 +40,15 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Switch              |           | 1         | SW1         |
 | Resonator           | 8MHz      | 1         | Y1          |
 
+## Baseplate parts
+
 ![Image of base plate parts] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg "Base plate parts")
 
 | Component Name      | Info                      | Quantity  | 
 |-----------------    |-------                    |-----------|
 | Base Plate          | 3mm Laser-cut plastic     | 1         |
 | M3 Nuts             | BZP metal                 | 8         |
-| M3 12mm Screws      | BZP metal                 | 4        |
+| M3 12mm Screws      | BZP metal                 | 4         |
 | Sticky Pad          |                           | 1         |
 
 # Tools required
@@ -55,11 +57,35 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 # Step 1: Solder the IC socket
 ![Solder IC Socket] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Solder the IC Socket")
 
+Ensure the IC (integrated circuit) socket is soldered with the notch on the holder aligned with the notch shown on the silkscreen of the PCB.
+
 # Step 2: Solder the resistors
 ![Solder Resistors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_2.png "Solder the resistors x 4")
 
+These resistors are:
+
+| Value               | Colours                    | Reference |
+|-----------------    |-------                     |-----------|
+| 1k ohm              | Brown, Black, Red, Gold    | R1        |
+| 10k ohm             | Brown, Black, Orange, Gold | R2        |
+| 10k ohm             | Brown, Black, Orange, Gold | R3        |
+| 1k ohm              | Brown, Black, Red, Gold    | R4        |
+
+The resistors do not have a polarity and can be soldered either way around.
+
 # Step 3: Solder the capacitors
 ![Solder Capacitors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_3.png "Solder the capacitors x 2")
+
+The capacitors are:
+
+| Value              | Identification                                       | Reference |
+|-----------------   |-------                                               |-----------|
+| 0.1uF              | Cream box with ".1J63" Markings                      | C1        |
+| 10uF               | Black cylinder with white stripe. "10uF" Marked      | C2        |
+
+C1 does not have a polarity and can be soldered either way around.
+
+C2 **is** polarised. The long lead is positive (+ve). There is a white stripe down the negative side. Ensure the positive and negative leads align correctly. The positive lead needs to fit in the hole with the "+" symbol near it.
 
 # Step 4: Solder the switch
 ![Solder Switch] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_4.png "Solder the switch")
