@@ -81,7 +81,7 @@ The capacitors are:
 | Value              | Identification                                       | Reference |
 |-----------------   |-------                                               |-----------|
 | 0.1uF              | Cream box with ".1J63" Markings                      | C1        |
-| 10uF               | Black cylinder with white stripe. "10uF" Marked      | C2        |
+| 22uF               | Black cylinder with white stripe. "22uF" Marked      | C2        |
 
 C1 does not have a polarity and can be soldered either way around.
 
@@ -90,17 +90,39 @@ C2 **is** polarised. The long lead is positive (+ve). There is a white stripe do
 # Step 4: Solder the switch
 ![Solder Switch] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_4.png "Solder the switch")
 
+The switch fits in to the four holes marked "SW1" and "START".
+
 # Step 5: Solder the 16MHz resonator
 ![Solder Resonator] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_5.png "Solder the resonator")
+
+The resonator is the three-pin device and is soldered into the three holes near Y1. It does not matter which way round the device is soldered in. 
 
 # Step 6: Solder the red LED
 ![Solder red LED] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_6.png "Solder the 3mm red LED")
 
+The red LED is soldered into the holes marked "D5". The LED has a polarity with the long lead being positive (+ve) and the shorter lead is negative. Also the negative side has a flat side on the plastic LED enclosure. Ensure the flat side aligns with the flat side of the LED. The flat side is the -ve. The rounded side is the +ve.
+
 # Step 7: Solder the transistors
 ![Solder Transistors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_7.png "Solder the 5 x Transistors")
 
+There are 5 transistors to solder in. 
+
+| Value             | Marking  | Reference |
+|-----------------  |-------   |---------  |
+| BC640             | BC640    | Q1        |
+| BC548             | BC548    | Q2        |
+| BC548             | BC548    | Q3        |
+| BC548             | BC548    | Q4        |
+| BC548             | BC548    | Q5        |
+
 # Step 8: Solder the infra-red LEDs
 ![Solder IR LEDs] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8.png "Solder the 4 x IR LEDs")
+
+The IR LEDs are soldered into the holes marked "D1-D4". The LED has a polarity with the long lead being positive (+ve) and the shorter lead is negative. Also the negative side has a flat side on the plastic LED enclosure. Ensure the flat side aligns with the flat side of the LED. The flat side is the -ve. The rounded side is the +ve.
+
+![Solder IR LEDs] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8_b.png "Solder the 4 x IR LEDs")
+
+Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as shown. 
 
 # Step 9: Insert programmed IC into socket. 
 ![Insert IC] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png "Insert the ATTiny85 IC")
