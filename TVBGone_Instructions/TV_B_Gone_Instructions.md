@@ -1,10 +1,8 @@
 # TV-B-Gone Instructions
 
-**By: Matthew Little**
-
+**By: Matthew Little    Date: 13th Feb 2017**
 **hello@curiouselectric.co.uk**
-
-**Date: 13th Feb 2017**
+<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png" width="200">
 
 # Overview
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
@@ -12,7 +10,7 @@ It is based upon an idea and product from Mitch Altman.
 
 ![Image of TV-B-Gone] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Built TV-B-Gone PCB")
 
-<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png" width="100">
+
 
 
 # In use 
