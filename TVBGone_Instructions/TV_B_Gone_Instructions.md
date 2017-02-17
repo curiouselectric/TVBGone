@@ -193,9 +193,11 @@ Kit developed by [Matt Little at Curious Electric] (http://www.curiouselectric.c
 
 # Circuit Schematic
 
+![Circuit Schematic] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/TVBGoneSchematic.pdf "The Circuit Schematic")
 
 
 # PCB overview
+![PCB] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/TVBGone_PCB.pdf "The PCB overview")
 
 # Suppliers Information
 
