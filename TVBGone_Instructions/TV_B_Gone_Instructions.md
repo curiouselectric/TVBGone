@@ -16,6 +16,9 @@ It is based upon an idea and product from Mitch Altman.
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
 # Components
+
+![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components)
+
 | Component Name      | Value     | Quantity  | Reference   |
 |-----------------    |-------    |-----------|-----------  |
 | Capacitor           | 22uf      | 1         | C1          |
@@ -32,7 +35,6 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Switch              |           | 1         | SW1         |
 | Resonator           | 8MHz      | 1         | Y1          |
 
-![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components)
 ![Image of base plate parts] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg "Base plate parts")
 
 # Tools required
