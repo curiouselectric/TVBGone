@@ -138,8 +138,6 @@ The GITHUB repository for all the files is: **https://github.com/curiouselectric
 
 This kit has been designed and produced by:
 
-<p align="center">
-
 __The Curious Electric Company__
 
 **hello@curiouselectric.co.uk**
@@ -153,6 +151,8 @@ Hopkinson,
 Nottingham, 
 
 NG2 3AJ, UK
+
+<p align="center">
 
 <img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png" width="300" align="middle">
 </p>
