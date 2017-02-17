@@ -37,33 +37,54 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 ![Image of base plate parts] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg "Base plate parts")
 
+| Component Name      | Info                      | Quantity  | 
+|-----------------    |-------                    |-----------|
+| Base Plate          | 3mm Laser-cut plastic     | 1         |
+| M3 Nuts             | BZP metal                 | 8         |
+| M3 12mm Screws      | BZP metal                 | 4        |
+| Sticky Pad          |                           | 1         |
+
 # Tools required
+![Image of tools] 
 
 # Step 1: Solder the IC socket
+![Solder IC Socket] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Solder the IC Socket")
 
 # Step 2: Solder the resistors
+![Solder Resistors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_2.png "Solder the resistors x 4")
 
 # Step 3: Solder the capacitors
+![Solder Capacitors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_3.png "Solder the capacitors x 2")
 
 # Step 4: Solder the switch
+![Solder Switch] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_4.png "Solder the switch")
 
 # Step 5: Solder the 16MHz resonator
+![Solder Resonator] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_5.png "Solder the resonator")
 
 # Step 6: Solder the red LED
+![Solder red LED] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_6.png "Solder the 3mm red LED")
 
 # Step 7: Solder the transistors
+![Solder Transistors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_7.png "Solder the 5 x Transistors")
 
 # Step 8: Solder the infra-red LEDs
+![Solder IR LEDs] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8.png "Solder the 4 x IR LEDs")
 
 # Step 9: Insert programmed IC into socket. 
+![Insert IC] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png "Insert the ATTiny85 IC")
 
 # Step 10: Wire up battery box
+![Solder Battery Box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Solder on the battery box")
 
 # Step 11: Attach PCB to baseplate
+![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Solder the IC Socket")
 
 # Step 12: Attach battery box
+![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Stick down battery box")
 
 # Step 13: Add 3 x AAA batteries and test!
+![Test] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_LED_Test.png "Test the unit")
 
 Insert 3 AAA batteries into the battery box. Use the switch on the battery box to turn on the device. You should see the 3mm red LED flash. This means the unit is working. It will flash for around 60 seconds and then switch off. Press the black push-button switch to start the sequence again. The device sends out all the TV codes in sequence. Pressing the black button will cause it to start the sequence again.
 
