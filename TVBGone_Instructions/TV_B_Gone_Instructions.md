@@ -215,20 +215,15 @@ The GITHUB repository for all the files is: **https://github.com/curiouselectric
 
 This kit has been designed and produced by:
 
-->__The Curious Electric Company__<-
-
-->**hello@curiouselectric.co.uk**<-
-
-->**www.curiouselectric.co.uk**<-
-
-->Hopkinson, <-
-
-->21 Station Street, <-
-
-->Nottingham, <-
-
-->NG2 3AJ, UK<-
-
+<p align="center">
+<b>The Curious Electric Company</b>
+hello@curiouselectric.co.uk
+www.curiouselectric.co.uk
+Hopkinson,
+21 Station Street,
+Nottingham,
+NG2 3AJ, UK
+</p>
 <p align="center">
 
 <img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png" width="300" align="middle">
