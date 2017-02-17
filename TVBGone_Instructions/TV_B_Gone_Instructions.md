@@ -136,33 +136,45 @@ Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as
 
 The programmed IC (an ATTint85 microcontroller) must be inserted the correct way. There is a small dot on the IC which indicates pin 1. This dot should be aligned with the notch shown on the PCB silkscreen and on the IC socket.
 
-![Insert IC] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png "Insert the ATTiny85 IC")
+![Insert IC] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/ATtiny85-500x500.jpg "Insert the ATTiny85 IC")
 
 # Step 10: Wire up battery box
 ![Solder Battery Box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Solder on the battery box")
 
-Push the wires from the battery box through the larger holes next to the word "Battery". These cn then be knotted to provide strain relief.
+Push the wires from the battery box through the larger holes next to the word "Battery". These can then be knotted to provide strain relief. 
 
+The red wire is the battery positive (+ve) and is soldered to the hole in P1 with the **square** pad, next to the **"+"** symbol. The black wire is soldered into the other pad.
 
 # Step 11: Attach PCB to baseplate
+
+Use the 4 machine screws and the 8 nuts to hold the PCB to the baseplate as shown here:
+
 ![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122853_sm.jpg "Screws through baseplate")
 ![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122948_sm.jpg "Nuts onto screws")
 ![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123023_sm.jpg "PCB onto Screws")
 ![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123059_sm.jpg "PCB onto Screws")
 
+
 # Step 12: Attach battery box
+
+Use the double-sided sticky pad to affix the battery box to the baseplate. Some of the battery holders do **NOT** have an on/off switch (it is not needed as the unit powers down into an ultra-low power state until the "START" button is pressed). You may need to cut the sticky pad into two pieces.
+
 ![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123221_sm.jpg "Stick down battery box")
 ![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123233_sm.jpg "Stick down battery box")
 ![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123313_sm.jpg "Stick down battery box")
 ![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123318_sm.jpg "Stick down battery box")
-
 
 # Step 13: Add 3 x AAA batteries and test!
 
 ![Insert batteries] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123338_sm.jpg "Insert 3 x AAA batteries")
 ![Ready to go] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123415_sm.jpg "Ready to go!")
 
-Insert 3 AAA batteries into the battery box. Use the switch on the battery box to turn on the device. You should see the 3mm red LED flash. This means the unit is working. It will flash for around 60 seconds and then switch off. Press the black push-button switch to start the sequence again. The device sends out all the TV codes in sequence. Pressing the black button will cause it to start the sequence again.
+This device takes 3 x AAA batteries. Slide off the top cover of the battery holder and insert them as shown in the battery holder.
+The unit should spring into action with the red LED flashing. Each time the red LED flashes then a different TV 'OFF' code is sent. This means the unit is working. 
+
+If no sign of red LED flashing then please double check your soldering, the orientation and placement of all components and the IC orientation. 
+
+It will flash for around 60 seconds and then switch off. Press the black push-button switch to start the sequence again. The device sends out all the TV codes in sequence. Pressing the black button will cause it to start the sequence again.
 
 Use a digital camera to check the IR LEDs are working. A phone camera works well for this. You should see the LEDs flashing purple, which proves the device is sending IR codes. Here is a photo of the IR flashes taken on a phone camera:
  
@@ -180,6 +192,8 @@ The circuit is based upon the [kit by Adafruit Industries] (http://www.ladyada.n
 Kit developed by [Matt Little at Curious Electric] (http://www.curiouselectric.co.uk)
 
 # Circuit Schematic
+
+
 
 # PCB overview
 
