@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png" width="200" >
+<p align="center">
+<img  src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png" width="200" >
+</p>
 
 # TV-B-Gone Instructions
 
