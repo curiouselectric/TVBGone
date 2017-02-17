@@ -122,16 +122,27 @@ Kit developed by [Matt Little at Curious Electric] (http://www.curiouselectric.c
 We would like you to be happy with this kit. If you are not happy for any reason then please contact us and we will help to sort it out. 
 
 Please email **hello@curiouselectric.co.uk** with any questions or comments.
+
 Please tweet us at **@curiouselectric**
 
 If any parts are missing from your kit then please email **hello@curiouselectric.co.uk** with details and, if possible, where the kit was purchased.
 
 More technical information can be found via **www.curiouselectric.co.uk**
+
 The GITHUB repository for all the files is: **https://github.com/curiouselectric/TVBGone**
 
 This kit has been designed and produced by:
-__The Curious Electric Company__
-**hello@curiouselectric.co.uk**
-**www.curiouselectric.co.uk**
-Hopkinson, 21 Station Street, Nottingham, NG2 3AJ, UK
 
+__The Curious Electric Company__
+
+**hello@curiouselectric.co.uk**
+
+**www.curiouselectric.co.uk**
+
+Hopkinson, 
+
+21 Station Street, 
+
+Nottingham, 
+
+NG2 3AJ, UK
