@@ -14,7 +14,6 @@ It is based upon an idea and product from Mitch Altman.
 
 ![Image of TV-B-Gone] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Built TV-B-Gone PCB")
 
-
 # In use 
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
@@ -52,7 +51,11 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Sticky Pad          |                           | 1         |
 
 # Tools required
-![Image of tools] 
+![Image of tools] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.jgg "Tools required")
+
+The main tools required are: Soldering Iron, solder and side cutters. A screw driver and small set of pliers is also useful.
+
+[Here is a good getting started guide to soldering] (https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 
 # Step 1: Solder the IC socket
 ![Solder IC Socket] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Solder the IC Socket")
@@ -105,7 +108,7 @@ The red LED is soldered into the holes marked "D5". The LED has a polarity with 
 # Step 7: Solder the transistors
 ![Solder Transistors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_7.png "Solder the 5 x Transistors")
 
-There are 5 transistors to solder in. 
+There are 5 transistors to solder in (4 of BC548 and 1 of BC640): 
 
 | Value             | Marking  | Reference |
 |-----------------  |-------   |---------  |
@@ -115,8 +118,12 @@ There are 5 transistors to solder in.
 | BC548             | BC548    | Q4        |
 | BC548             | BC548    | Q5        |
 
+The transistors have a polarity and the flat side of the transistor should align with the longer flat side of the silk screen. Please check the photo for more detail.
+
 # Step 8: Solder the infra-red LEDs
 ![Solder IR LEDs] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8.png "Solder the 4 x IR LEDs")
+
+The IR LEDs are transparent plastic and, to the human eye, they cannot be seen flashing. They emit light outside of human eye spectrum.
 
 The IR LEDs are soldered into the holes marked "D1-D4". The LED has a polarity with the long lead being positive (+ve) and the shorter lead is negative. Also the negative side has a flat side on the plastic LED enclosure. Ensure the flat side aligns with the flat side of the LED. The flat side is the -ve. The rounded side is the +ve.
 
@@ -127,8 +134,15 @@ Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as
 # Step 9: Insert programmed IC into socket. 
 ![Insert IC] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png "Insert the ATTiny85 IC")
 
+The programmed IC (an ATTint85 microcontroller) must be inserted the correct way. There is a small dot on the IC which indicates pin 1. This dot should be aligned with the notch shown on the PCB silkscreen and on the IC socket.
+
+![Insert IC] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png "Insert the ATTiny85 IC")
+
 # Step 10: Wire up battery box
 ![Solder Battery Box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Solder on the battery box")
+
+Push the wires from the battery box through the larger holes next to the word "Battery". These cn then be knotted to provide strain relief.
+
 
 # Step 11: Attach PCB to baseplate
 ![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122853_sm.jpg "Screws through baseplate")
@@ -155,7 +169,6 @@ Use a digital camera to check the IR LEDs are working. A phone camera works well
 ![Test] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_LED_Test.png "Test the unit")
 
 **_Note:_ Most popular TV codes are used first but it may take over 60 seconds to scroll through all the codes.**
-
 
 
 # Circuit Overview
