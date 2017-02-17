@@ -78,18 +78,32 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 ![Solder Battery Box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "Solder on the battery box")
 
 # Step 11: Attach PCB to baseplate
-![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Solder the IC Socket")
+![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122853_sm.jpg "Screws through baseplate")
+![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122948_sm.jpg "Nuts onto screws")
+![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123023_sm.jpg "PCB onto Screws")
+![PCB baseplate] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123059_sm.jpg "PCB onto Screws")
 
 # Step 12: Attach battery box
-![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png "Stick down battery box")
+![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123221_sm.jpg "Stick down battery box")
+![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123233_sm.jpg "Stick down battery box")
+![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123313_sm.jpg "Stick down battery box")
+![Stick down battery box] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123318_sm.jpg "Stick down battery box")
+
 
 # Step 13: Add 3 x AAA batteries and test!
-![Test] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_LED_Test.png "Test the unit")
+
+![Insert batteries] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123338_sm.jpg "Insert 3 x AAA batteries")
+![Ready to go] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123415_sm.jpg "Ready to go!")
 
 Insert 3 AAA batteries into the battery box. Use the switch on the battery box to turn on the device. You should see the 3mm red LED flash. This means the unit is working. It will flash for around 60 seconds and then switch off. Press the black push-button switch to start the sequence again. The device sends out all the TV codes in sequence. Pressing the black button will cause it to start the sequence again.
 
-Use a digital camera to check the IR LEDs are working. A phone camera works well for this. You should see the LEDs flashing purple, which proves the device is sending IR codes.
-Note: Most popular TV codes are used first but it may take over 60 seconds to scroll through all the codes. 
+Use a digital camera to check the IR LEDs are working. A phone camera works well for this. You should see the LEDs flashing purple, which proves the device is sending IR codes. Here is a photo of the IR flashes taken on a phone camera:
+ 
+![Test] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_LED_Test.png "Test the unit")
+
+**_Note:_ Most popular TV codes are used first but it may take over 60 seconds to scroll through all the codes.**
+
+
 
 # Circuit Overview
 
