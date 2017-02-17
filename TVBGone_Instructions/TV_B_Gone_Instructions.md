@@ -10,7 +10,7 @@
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
 It is based upon an idea and product from Mitch Altman.
 
-![Image of TV-B-Gone] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png)
+![Image of TV-B-Gone] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png "TV-B-Gone Built PCB")
 
 # In use 
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
@@ -31,6 +31,9 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Transistor  NPN     | BC548     | 4         | Q2,Q3,Q4,Q5 |
 | Switch              |           | 1         | SW1         |
 | Resonator           | 8MHz      | 1         | Y1          |
+
+![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components)
+![Image of base plate parts] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg "Base plate parts")
 
 # Tools required
 
