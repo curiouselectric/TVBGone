@@ -83,8 +83,9 @@ The capacitors are:
 
 | Value              | Identification                                       | Reference |
 |-----------------   |-------                                               |-----------|
-| 0.1uF              | Cream box with ".1J63" Markings                      | C1        |
-| 22uF               | Black cylinder with white stripe. "22uF" Marked      | C2        |
+| 22uF               | Black cylinder with white stripe. "22uF" Marked      | C1        |
+| 0.1uF              | Cream box with ".1J63" Markings                      | C2        |
+
 
 C1 does not have a polarity and can be soldered either way around.
 
