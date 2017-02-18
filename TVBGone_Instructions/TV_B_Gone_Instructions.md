@@ -21,7 +21,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 ## PCB and components
 
-![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Components.png "Kit Components")
+![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/ComponentsRef.jpg "Kit Components")
 
 | Component Name      | Value     | Quantity  | Reference   |
 |-----------------    |-------    |-----------|-----------  |
@@ -193,11 +193,14 @@ Kit developed by [Matt Little at Curious Electric] (http://www.curiouselectric.c
 
 # Circuit Schematic
 
-![Circuit Schematic] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/TVBGoneSchematic.pdf "The Circuit Schematic")
+![Circuit Schematic] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Schematic_TVBGone.png "The Circuit Schematic")
 
+[And here as a .pdf] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/TVBGoneSchematic.pdf)
 
 # PCB overview
-![PCB] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/TVBGone_PCB.pdf "The PCB overview")
+![PCB] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_overview.jpg "The PCB overview")
+
+[And here as a .pdf] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/TVBGone_PCB.pdf)
 
 # Suppliers Information
 
