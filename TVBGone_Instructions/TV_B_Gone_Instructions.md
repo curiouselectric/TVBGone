@@ -221,7 +221,7 @@ The GITHUB repository for all the files is: **https://github.com/curiouselectric
 This kit has been designed and produced by:
 
 <p align="center">
-The Curious Electric Company<br>
+<b>The Curious Electric Company</b><br>
 hello@curiouselectric.co.uk<br>
 www.curiouselectric.co.uk<br>
 Hopkinson,<br>
