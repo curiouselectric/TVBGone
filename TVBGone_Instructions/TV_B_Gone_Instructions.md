@@ -221,13 +221,13 @@ The GITHUB repository for all the files is: **https://github.com/curiouselectric
 This kit has been designed and produced by:
 
 <p align="center">
-The Curious Electric Company
-hello@curiouselectric.co.uk
-www.curiouselectric.co.uk
-Hopkinson,
-21 Station Street,
-Nottingham,
-NG2 3AJ, UK
+The Curious Electric Company<br>
+hello@curiouselectric.co.uk<br>
+www.curiouselectric.co.uk<br>
+Hopkinson,<br>
+21 Station Street,<br>
+Nottingham,<br>
+NG2 3AJ, UK<br>
 
 <img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png?raw=true" width="300" align="middle">
 </p>
