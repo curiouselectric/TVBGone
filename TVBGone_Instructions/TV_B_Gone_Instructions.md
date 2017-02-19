@@ -228,7 +228,7 @@ Hopkinson,<br>
 21 Station Street,<br>
 Nottingham,<br>
 NG2 3AJ, UK<br>
-
-<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png?raw=true" width="300" align="middle">
+<br>
+<img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png?raw=true" width="150" align="middle">
 </p>
 
