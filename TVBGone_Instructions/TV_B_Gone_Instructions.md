@@ -22,11 +22,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 ## PCB and components
 
-<<<<<<< HEAD
 ![Image of components](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/ComponentsRef.jpg?raw=true "Kit Components")
-=======
-![Image of components] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/ComponentsRef.jpg?raw=true "Kit Components")
->>>>>>> origin/master
 
 | Component Name      | Value     | Quantity  | Reference   |
 |-----------------    |-------    |-----------|-----------  |
@@ -46,11 +42,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 ## Baseplate parts
 
-<<<<<<< HEAD
 ![Image of base plate parts](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg?raw=true "Base plate parts")
-=======
-![Image of base plate parts] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg?raw=true "Base plate parts")
->>>>>>> origin/master
 
 | Component Name      | Info                      | Quantity  | 
 |-----------------    |-------                    |-----------|
@@ -60,31 +52,19 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Sticky Pad          |                           | 1         |
 
 # Tools required
-<<<<<<< HEAD
 ![Image of tools](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.JPG?raw=true "Tools required")
-=======
-![Image of tools] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.JPG?raw=true "Tools required")
->>>>>>> origin/master
 
 The main tools required are: Soldering Iron, solder and side cutters. A screw driver and small set of pliers is also useful.
 
 [Here is a good getting started guide to soldering] (https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 
 # Step 1: Solder the IC socket
-<<<<<<< HEAD
 ![Solder IC Socket](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png?raw=true "Solder the IC Socket")
-=======
-![Solder IC Socket] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png?raw=true "Solder the IC Socket")
->>>>>>> origin/master
 
 Ensure the IC (integrated circuit) socket is soldered with the notch on the holder aligned with the notch shown on the silkscreen of the PCB.
 
 # Step 2: Solder the resistors
-<<<<<<< HEAD
 ![Solder Resistors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_2.png?raw=true "Solder the resistors x 4")
-=======
-![Solder Resistors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_2.png?raw=true "Solder the resistors x 4")
->>>>>>> origin/master
 
 These resistors are:
 
@@ -98,11 +78,7 @@ These resistors are:
 The resistors do not have a polarity and can be soldered either way around.
 
 # Step 3: Solder the capacitors
-<<<<<<< HEAD
 ![Solder Capacitors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_3.png?raw=true "Solder the capacitors x 2")
-=======
-![Solder Capacitors] (https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_3.png?raw=true "Solder the capacitors x 2")
->>>>>>> origin/master
 
 The capacitors are:
 
