@@ -13,9 +13,13 @@
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
 It is based upon an idea and product from [Mitch Altman](http://www.tvbgone.com/).
 
+<div class="testImage">
+
 ![Image of TV-B-Gone](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png?raw=true "Built TV-B-Gone PCB")
 
-# In use 
+</div>
+
+# In use
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
 # Components
@@ -44,7 +48,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 ![Image of base plate parts](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg?raw=true "Base plate parts")
 
-| Component Name      | Info                      | Quantity  | 
+| Component Name      | Info                      | Quantity  |
 |-----------------    |-------                    |-----------|
 | Base Plate          | 3mm Laser-cut plastic     | 1         |
 | M3 Nuts             | BZP metal                 | 8         |
@@ -52,11 +56,12 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Sticky Pad          |                           | 1         |
 
 # Tools required
+
 ![Image of tools](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.JPG?raw=true "Tools required")
 
 The main tools required are: Soldering Iron, solder and side cutters. A screw driver and small set of pliers is also useful.
 
-[Here is a good getting started guide to soldering] (https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
+[Here is a good getting started guide to soldering](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 
 # Step 1: Solder the IC socket
 ![Solder IC Socket](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png?raw=true "Solder the IC Socket")
@@ -100,7 +105,7 @@ The switch fits in to the four holes marked "SW1" and "START".
 # Step 5: Solder the 16MHz resonator
 ![Solder Resonator](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_5.png?raw=true "Solder the resonator")
 
-The resonator is the three-pin device and is soldered into the three holes near Y1. It does not matter which way round the device is soldered in. 
+The resonator is the three-pin device and is soldered into the three holes near Y1. It does not matter which way round the device is soldered in.
 
 # Step 6: Solder the red LED
 ![Solder red LED](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_6.png?raw=true "Solder the 3mm red LED")
@@ -110,7 +115,7 @@ The red LED is soldered into the holes marked "D5". The LED has a polarity with 
 # Step 7: Solder the transistors
 ![Solder Transistors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_7.png?raw=true "Solder the 5 x Transistors")
 
-There are 5 transistors to solder in (4 of BC548 and 1 of BC640): 
+There are 5 transistors to solder in (4 of BC548 and 1 of BC640):
 
 | Value             | Marking  | Reference |
 |-----------------  |-------   |---------  |
@@ -131,9 +136,9 @@ The IR LEDs are soldered into the holes marked "D1-D4". The LED has a polarity w
 
 ![Solder IR LEDs](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8_b.png?raw=true "Solder the 4 x IR LEDs")
 
-Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as shown. 
+Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as shown.
 
-# Step 9: Insert programmed IC into socket. 
+# Step 9: Insert programmed IC into socket.
 ![Insert IC](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png?raw=true "Insert the ATTiny85 IC")
 
 The programmed IC (an ATTint85 microcontroller) must be inserted the correct way. There is a small dot on the IC which indicates pin 1. This dot should be aligned with the notch shown on the PCB silkscreen and on the IC socket.
@@ -143,7 +148,7 @@ The programmed IC (an ATTint85 microcontroller) must be inserted the correct way
 # Step 10: Wire up battery box
 ![Solder Battery Box](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png?raw=true "Solder on the battery box")
 
-Push the wires from the battery box through the larger holes next to the word "Battery". These can then be knotted to provide strain relief. 
+Push the wires from the battery box through the larger holes next to the word "Battery". These can then be knotted to provide strain relief.
 
 The red wire is the battery positive (+ve) and is soldered to the hole in P1 with the **square** pad, next to the **"+"** symbol. The black wire is soldered into the other pad.
 
@@ -171,14 +176,14 @@ Use the double-sided sticky pad to affix the battery box to the baseplate. Some 
 ![Ready to go](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_123415_sm.jpg?raw=true "Ready to go!")
 
 This device takes 3 x AAA batteries. Slide off the top cover of the battery holder and insert them as shown in the battery holder.
-The unit should spring into action with the red LED flashing. Each time the red LED flashes then a different TV 'OFF' code is sent. This means the unit is working. 
+The unit should spring into action with the red LED flashing. Each time the red LED flashes then a different TV 'OFF' code is sent. This means the unit is working.
 
-If no sign of red LED flashing then please double check your soldering, the orientation and placement of all components and the IC orientation. 
+If no sign of red LED flashing then please double check your soldering, the orientation and placement of all components and the IC orientation.
 
 It will flash for around 60 seconds and then switch off. Press the black push-button switch to start the sequence again. The device sends out all the TV codes in sequence. Pressing the black button will cause it to start the sequence again.
 
 Use a digital camera to check the IR LEDs are working. A phone camera works well for this. You should see the LEDs flashing purple, which proves the device is sending IR codes. Here is a photo of the IR flashes taken on a phone camera:
- 
+
 ![Test](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_LED_Test.png?raw=true "Test the unit")
 
 **_Note:_ Most popular TV codes are used first but it may take over 60 seconds to scroll through all the codes.**
@@ -206,7 +211,7 @@ Kit developed by [Matt Little at Curious Electric](http://www.curiouselectric.co
 
 # Suppliers Information
 
-We would like you to be happy with this kit. If you are not happy for any reason then please contact us and we will help to sort it out. 
+We would like you to be happy with this kit. If you are not happy for any reason then please contact us and we will help to sort it out.
 
 Please email **hello@curiouselectric.co.uk** with any questions or comments.
 
@@ -231,4 +236,3 @@ NG2 3AJ, UK<br>
 <br>
 <img src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Round_Logo.png?raw=true" width="150" align="middle">
 </p>
-
