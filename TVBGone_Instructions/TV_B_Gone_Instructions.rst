@@ -1,8 +1,16 @@
 
-.. image:: https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png
-   :width: 100px
+
+.. image:: ../TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png
+   :scale: 20.0 %
    :alt: logo
    :align: center
+
+
+.. image:: ../TVBGone_Instructions/Photos/ComponentsRef.jpg
+   :height: 50 px
+   :alt: logo
+   :align: center
+
 
 
 TV-B-Gone Instructions
