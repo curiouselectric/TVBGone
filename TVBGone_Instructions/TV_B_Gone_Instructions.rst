@@ -1,9 +1,9 @@
 
-.. image:: "https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png?raw=true"
+.. image:: https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png
    :height: 100px
    :width: 200 px
    :scale: 50 %
-   :alt: alternate text
+   :alt: logo
    :align: center
 
 
@@ -40,35 +40,55 @@ PCB and components
 
 ![Image of components](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/ComponentsRef.jpg?raw=true "Kit Components")
 
++---------------------+-----------+-----------+-------------+
 | Component Name      | Value     | Quantity  | Reference   |
-|-----------------    |-------    |-----------|-----------  |
++=====================+===========+===========+=============+
 | Capacitor           | 22uf      | 1         | C1          |
++---------------------+-----------+-----------+-------------+
 | Capacitor           | 0.1uf     | 1         | C2          |
++---------------------+-----------+-----------+-------------+
 | LED IR 950nm        |           | 4         | D1,D2,D3,D4 |
++---------------------+-----------+-----------+-------------+
 | LED Red 5mm         |           | 1         | D5          |
++---------------------+-----------+-----------+-------------+
 | MicroController     | ATTiny85  | 1         | IC1         |
++---------------------+-----------+-----------+-------------+
 | IC 8pin Socket      |           | 1         |             |
++---------------------+-----------+-----------+-------------+
 | Battery Holder      |           | 1         | P1          |
++---------------------+-----------+-----------+-------------+
 | Resistor            | 1k        | 2         | R1,R4       |
++---------------------+-----------+-----------+-------------+
 | Resistor            | 10k       | 2         | R2,R3       |
++---------------------+-----------+-----------+-------------+
 | Transistor  PNP     | BC640     | 1         | Q1          |
++---------------------+-----------+-----------+-------------+
 | Transistor  NPN     | BC548     | 4         | Q2,Q3,Q4,Q5 |
++---------------------+-----------+-----------+-------------+
 | Switch              |           | 1         | SW1         |
++---------------------+-----------+-----------+-------------+
 | Resonator           | 8MHz      | 1         | Y1          |
++---------------------+-----------+-----------+-------------+
 
 Baseplate parts
 ^^^^^^^^^^^^^^^
 
 ![Image of base plate parts](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg?raw=true "Base plate parts")
 
++---------------------+---------------------------+-----------+
 | Component Name      | Info                      | Quantity  |
-|-----------------    |-------                    |-----------|
++=====================+===========================+===========+
 | Base Plate          | 3mm Laser-cut plastic     | 1         |
++---------------------+---------------------------+-----------+
 | M3 Nuts             | BZP metal                 | 8         |
++---------------------+---------------------------+-----------+
 | M3 12mm Screws      | BZP metal                 | 4         |
++---------------------+---------------------------+-----------+
 | Sticky Pad          |                           | 1         |
++---------------------+---------------------------+-----------+
 
-# Tools required
+Tools required
+^^^^^^^^^^^^^^
 
 ![Image of tools](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/Tools.JPG?raw=true "Tools required")
 
@@ -76,22 +96,29 @@ The main tools required are: Soldering Iron, solder and side cutters. A screw dr
 
 [Here is a good getting started guide to soldering](https://mightyohm.com/files/soldercomic/FullSolderComic_EN.pdf)
 
-# Step 1: Solder the IC socket
+Step 1: Solder the IC socket
+----------------------------
 ![Solder IC Socket](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_1.png?raw=true "Solder the IC Socket")
 
 Ensure the IC (integrated circuit) socket is soldered with the notch on the holder aligned with the notch shown on the silkscreen of the PCB.
 
-# Step 2: Solder the resistors
+Step 2: Solder the resistors
+----------------------------
+
 ![Solder Resistors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_2.png?raw=true "Solder the resistors x 4")
 
 These resistors are:
-
++---------------------+----------------------------+-----------+
 | Value               | Colours                    | Reference |
-|-----------------    |-------                     |-----------|
++=====================+============================+===========+
 | 1k ohm              | Brown, Black, Red, Gold    | R1        |
++---------------------+----------------------------+-----------+
 | 10k ohm             | Brown, Black, Orange, Gold | R2        |
++---------------------+----------------------------+-----------+
 | 10k ohm             | Brown, Black, Orange, Gold | R3        |
++---------------------+----------------------------+-----------+
 | 1k ohm              | Brown, Black, Red, Gold    | R4        |
++---------------------+----------------------------+-----------+
 
 The resistors do not have a polarity and can be soldered either way around.
 
