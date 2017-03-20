@@ -1,15 +1,12 @@
 
 
 .. image:: ../TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png
-   :scale: 20.0 %
+   :scale: 20 %
    :alt: logo
    :align: center
 
 
-.. image:: ../TVBGone_Instructions/Photos/ComponentsRef.jpg
-   :height: 50 px
-   :alt: logo
-   :align: center
+
 
 
 
@@ -26,12 +23,10 @@ Overview
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
 It is based upon an idea and product from [Mitch Altman](http://www.tvbgone.com/).
 
-<div class="testImage">
-
-![Image of TV-B-Gone](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_Final.png?raw=true "Built TV-B-Gone PCB")
-
-</div>
-
+.. image:: ../TVBGone_Instructions/Photos/PCB_Final.png
+   :width: 250 px
+   :alt: logo
+   :align: center
 
 In use
 ------
@@ -150,25 +145,32 @@ C2 **is** polarised. The long lead is positive (+ve). There is a white stripe do
 
 Step 4: Solder the switch
 -------------------------
+
 ![Solder Switch](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_4.png?raw=true "Solder the switch")
 
 The switch fits in to the four holes marked "SW1" and "START".
 
 Step 5: Solder the 16MHz resonator
 ----------------------------------
+
 ![Solder Resonator](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_5.png?raw=true "Solder the resonator")
 
 The resonator is the three-pin device and is soldered into the three holes near Y1. It does not matter which way round the device is soldered in.
 
-# Step 6: Solder the red LED
+Step 6: Solder the red LED
+--------------------------
+
 ![Solder red LED](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_6.png?raw=true "Solder the 3mm red LED")
 
 The red LED is soldered into the holes marked "D5". The LED has a polarity with the long lead being positive (+ve) and the shorter lead is negative. Also the negative side has a flat side on the plastic LED enclosure. Ensure the flat side aligns with the flat side of the LED. The flat side is the -ve. The rounded side is the +ve.
 
-# Step 7: Solder the transistors
+Step 7: Solder the transistors
+------------------------------
+
 ![Solder Transistors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_7.png?raw=true "Solder the 5 x Transistors")
 
 There are 5 transistors to solder in (4 of BC548 and 1 of BC640):
+
 
 | Value             | Marking  | Reference |
 |-----------------  |-------   |---------  |
@@ -180,7 +182,9 @@ There are 5 transistors to solder in (4 of BC548 and 1 of BC640):
 
 The transistors have a polarity and the flat side of the transistor should align with the longer flat side of the silk screen. Please check the photo for more detail.
 
-# Step 8: Solder the infra-red LEDs
+Step 8: Solder the infra-red LEDs
+---------------------------------
+
 ![Solder IR LEDs](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8.png?raw=true "Solder the 4 x IR LEDs")
 
 The IR LEDs are transparent plastic and, to the human eye, they cannot be seen flashing. They emit light outside of human eye spectrum.
