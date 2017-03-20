@@ -6,9 +6,18 @@
    :align: center
 
 
+.. image:: ../TVBGone_Instructions/Photos/PCB_Final.png?raw=true
+   :width: 100 px
+   :alt: logo
+   :align: center
 
 
 
+.. image:: ../TVBGone_Instructions/Photos/ComponentsRef.jpg
+   :width: 100 px
+   :alt: logo
+   :align: center
+   
 
 TV-B-Gone Instructions
 ======================
@@ -23,10 +32,7 @@ Overview
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
 It is based upon an idea and product from [Mitch Altman](http://www.tvbgone.com/).
 
-.. image:: ../TVBGone_Instructions/Photos/PCB_Final.png
-   :width: 250 px
-   :alt: logo
-   :align: center
+
 
 In use
 ------
