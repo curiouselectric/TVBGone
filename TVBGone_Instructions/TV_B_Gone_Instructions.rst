@@ -1,8 +1,6 @@
 
 .. image:: https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
+   :width: 100px
    :alt: logo
    :align: center
 
