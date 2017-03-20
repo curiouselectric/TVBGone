@@ -1,18 +1,22 @@
 
-<p align="center">
-<img  src="https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png?raw=true" width="200" >
-</p>
+.. image:: "https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/CuriousElectricCompany_Logo_Web_Header.png?raw=true"
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: center
 
 
-###################### 
 TV-B-Gone Instructions
-######################
+======================
 
 **By: Matthew Little,      Date: 13th Feb 2017**
 
 **hello@curiouselectric.co.uk**
 
-# Overview
+Overview
+--------
+
 The TV-B-Gone switches off TVs from a distance of up to 30m. It sends out the ‘standby’ command for the top 125 European and 125 US TV specifications.
 It is based upon an idea and product from [Mitch Altman](http://www.tvbgone.com/).
 
@@ -22,12 +26,17 @@ It is based upon an idea and product from [Mitch Altman](http://www.tvbgone.com/
 
 </div>
 
-# In use
+
+In use
+------
+
 Switch on the battery pack and point at an unwanted TV. Press the black button and the red light will flash, showing it is sending out the various TV codes. The most popular codes are sent first, but it takes over 60 seconds to run through all the codes.
 
-# Components
+Components
+----------
 
-## PCB and components
+PCB and components
+^^^^^^^^^^^^^^^^^^
 
 ![Image of components](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/ComponentsRef.jpg?raw=true "Kit Components")
 
@@ -47,7 +56,8 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 | Switch              |           | 1         | SW1         |
 | Resonator           | 8MHz      | 1         | Y1          |
 
-## Baseplate parts
+Baseplate parts
+^^^^^^^^^^^^^^^
 
 ![Image of base plate parts](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/IMG_20160113_122831_sm.jpg?raw=true "Base plate parts")
 
