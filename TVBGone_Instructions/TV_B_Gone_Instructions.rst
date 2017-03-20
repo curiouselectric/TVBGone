@@ -106,6 +106,7 @@ Step 2: Solder the resistors
 ![Solder Resistors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_2.png?raw=true "Solder the resistors x 4")
 
 These resistors are:
+
 +---------------------+----------------------------+-----------+
 | Value               | Colours                    | Reference |
 +=====================+============================+===========+
@@ -120,27 +121,33 @@ These resistors are:
 
 The resistors do not have a polarity and can be soldered either way around.
 
-# Step 3: Solder the capacitors
+Step 3: Solder the capacitors
+-----------------------------
 ![Solder Capacitors](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_3.png?raw=true "Solder the capacitors x 2")
 
 The capacitors are:
 
++--------------------+------------------------------------------------------+-----------+
 | Value              | Identification                                       | Reference |
-|-----------------   |-------                                               |-----------|
++====================+======================================================+===========+
 | 22uF               | Black cylinder with white stripe. "22uF" Marked      | C1        |
++--------------------+------------------------------------------------------+-----------+
 | 0.1uF              | Cream box with ".1J63" Markings                      | C2        |
++--------------------+------------------------------------------------------+-----------+
 
 
 C1 does not have a polarity and can be soldered either way around.
 
 C2 **is** polarised. The long lead is positive (+ve). There is a white stripe down the negative side. Ensure the positive and negative leads align correctly. The positive lead needs to fit in the hole with the "+" symbol near it.
 
-# Step 4: Solder the switch
+Step 4: Solder the switch
+-------------------------
 ![Solder Switch](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_4.png?raw=true "Solder the switch")
 
 The switch fits in to the four holes marked "SW1" and "START".
 
-# Step 5: Solder the 16MHz resonator
+Step 5: Solder the 16MHz resonator
+----------------------------------
 ![Solder Resonator](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_5.png?raw=true "Solder the resonator")
 
 The resonator is the three-pin device and is soldered into the three holes near Y1. It does not matter which way round the device is soldered in.
