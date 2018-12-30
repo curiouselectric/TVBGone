@@ -29,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:matts_components
 LIBS:TV_B_Gone_ML_v1_2-cache
 EELAYER 25 0
 EELAYER END
@@ -448,7 +449,7 @@ F 3 "" H 6000 4850 60  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L NPN Q5
+L NPN-RESCUE-TV_B_Gone_ML_v1_2 Q5
 U 1 1 4F15968C
 P 8750 3900
 F 0 "Q5" H 8750 3750 50  0000 R CNN
@@ -459,7 +460,7 @@ F 3 "" H 8750 3900 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L NPN Q4
+L NPN-RESCUE-TV_B_Gone_ML_v1_2 Q4
 U 1 1 4F159689
 P 8750 3200
 F 0 "Q4" H 8750 3050 50  0000 R CNN
@@ -470,7 +471,7 @@ F 3 "" H 8750 3200 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L NPN Q3
+L NPN-RESCUE-TV_B_Gone_ML_v1_2 Q3
 U 1 1 4F159684
 P 8750 2500
 F 0 "Q3" H 8750 2350 50  0000 R CNN
@@ -547,7 +548,7 @@ F 3 "" H 2050 5200 60  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L PNP Q1
+L PNP-RESCUE-TV_B_Gone_ML_v1_2 Q1
 U 1 1 4F1595EF
 P 7400 4100
 F 0 "Q1" H 7400 3950 60  0000 R CNN
@@ -558,7 +559,7 @@ F 3 "" H 7400 4100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L NPN Q2
+L NPN-RESCUE-TV_B_Gone_ML_v1_2 Q2
 U 1 1 4F15956A
 P 8750 1800
 F 0 "Q2" H 8750 1650 50  0000 R CNN
