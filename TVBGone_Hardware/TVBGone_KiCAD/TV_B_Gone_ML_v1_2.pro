@@ -1,4 +1,4 @@
-update=15/02/2017 18:32:52
+update=27/12/2018 20:29:49
 version=1
 last_client=kicad
 [cvpcb]
@@ -45,16 +45,6 @@ LibName10=dip_sockets
 LibName11=E:/Information/KiCad My Modules/matts_components
 LibName12=E:/Information/KiCad My Modules/matts_lib
 LibName13=E:/Information/KiCad My Modules/logo module/hackspacelogo3
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -89,4 +79,14 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=D:/Google Drive/KiCAD/KiCad My Libraries/matts_components
+LibName31=G:/My Drive/KiCAD/kicad_reinnovation/KiCad My Libraries/matts_components
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

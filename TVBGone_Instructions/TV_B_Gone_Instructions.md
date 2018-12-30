@@ -102,7 +102,7 @@ C2 **is** polarised. The long lead is positive (+ve). There is a white stripe do
 
 The switch fits in to the four holes marked "SW1" and "START".
 
-# Step 5: Solder the 16MHz resonator
+# Step 5: Solder the 8MHz resonator
 ![Solder Resonator](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_5.png?raw=true "Solder the resonator")
 
 The resonator is the three-pin device and is soldered into the three holes near Y1. It does not matter which way round the device is soldered in.
@@ -136,7 +136,7 @@ The IR LEDs are soldered into the holes marked "D1-D4". The LED has a polarity w
 
 ![Solder IR LEDs](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_8_b.png?raw=true "Solder the 4 x IR LEDs")
 
-Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as shown.
+Bend the leads of the LED at 90 degrees so that they shine away from the PCB, as shown. If the circuit board is to be mounted onto the plastic base, then wait until the board is screwed down before doing this step.
 
 # Step 9: Insert programmed IC into socket.
 ![Insert IC](https://github.com/curiouselectric/TVBGone/blob/master/TVBGone_Instructions/Photos/PCB_9.png?raw=true "Insert the ATTiny85 IC")
