@@ -30,7 +30,7 @@ Switch on the battery pack and point at an unwanted TV. Press the black button a
 
 | Component Name      | Value     | Quantity  | Reference   |
 |-----------------    |-------    |-----------|-----------  |
-| Capacitor           | 22uf      | 1         | C1          |
+| Capacitor           | 100uf     | 1         | C1          |
 | Capacitor           | 0.1uf     | 1         | C2          |
 | LED IR 950nm        |           | 4         | D1,D2,D3,D4 |
 | LED Red 5mm         |           | 1         | D5          |
@@ -89,7 +89,7 @@ The capacitors are:
 
 | Value              | Identification                                       | Reference |
 |-----------------   |-------                                               |-----------|
-| 22uF               | Black cylinder with white stripe. "22uF" Marked      | C1        |
+| 100uF              | Black cylinder with white stripe. "100uF" Marked     | C1        |
 | 0.1uF              | Cream box with ".1J63" Markings                      | C2        |
 
 
